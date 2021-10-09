@@ -20,6 +20,7 @@ requests==2.26.0
 ruamel.yaml==0.17.16
 ruamel.yaml.clib==0.2.6
 sacremoses==0.0.46
+sentencepiece==0.1.96
 six==1.16.0
 tokenizers==0.10.3
 toml==0.10.2
